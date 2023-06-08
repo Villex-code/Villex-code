@@ -2,6 +2,9 @@
 
 ![Snake animation](https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/output/github-contribution-grid-snake-dark.svg)
 
+- name: generate-snake-game-from-github-contribution-grid
+  uses: Platane/snk@v2.2.1
+
 <!--
 **Villex-code/Villex-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
