@@ -2,6 +2,29 @@
 <!--- -- Typing SVG ---------------------------------------------------------------------------------------------------------------------------------------- -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
+<br>
+
+<a href="https://app.daily.dev/Anmol-Baranwal"><img align="left" src="https://api.daily.dev/devcards/dd392acea707444d96315bea580a61ed.png?r=p6n" width="350" alt="Villex's Dev Card"/></a>
+
+<div>
+
+<i>&nbsp; There's nothing quite like the thrill of having your work recognized and appreciated by the community. </i><br><br>
+
+🎓 &nbsp; I'm completing my Bachelor in the field of Computer Science.<br>
+
+🔥 &nbsp; Proudly active in supportive programming community.<br>
+
+🎯 &nbsp; I am continuously exploring and developing projects on cutting-edge technologies like Next.js<br>
+
+🌐 &nbsp; Working on Real World Applications using Flutter ( Dart ).<br>
+
+🚀 &nbsp; My expertise as a Full-Stack developer with a slight incline to backend.<br>
+
+😄 &nbsp; I enjoying projects and interesting ideas with fellow coders !
+
+
+</div>
+
 <p align="center">
 <a href="https://github.com/Villex-code">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&center=true&weight=450&size=24&pause=800&color=70A4FC&width=440&height=45&lines=Full-stack+Web+Developer;Experienced+UI+Designer;Enjoy+Learning+Algorithms;Building+Real+World+Projects" /></a>
@@ -21,19 +44,7 @@
 </td>
 <td style="border: none;">
 
-<i>&nbsp; There's nothing quite like the thrill of having your work recognized and appreciated by the community. </i><br><br>
 
-🎓 &nbsp; I'm completing my Bachelor in the field of Computer Science.<br>
-
-🔥 &nbsp; Proudly active in supportive programming community.<br>
-
-🎯 &nbsp; I am continuously exploring and developing projects on cutting-edge technologies like Next.js<br>
-
-🌐 &nbsp; Working on Real World Applications using Flutter ( Dart ).<br>
-
-🚀 &nbsp; My expertise as a Full-Stack developer with a slight incline to backend.<br>
-
-😄 &nbsp; I enjoying projects and interesting ideas with fellow coders !<br>
 
 </td>
 </tr>
