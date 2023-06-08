@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Snake animation](https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/output/github-contribution-grid-snake-dark.svg)
+
 <!--
 **Villex-code/Villex-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
