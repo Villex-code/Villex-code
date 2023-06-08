@@ -22,6 +22,8 @@
  
 <br>
 
+<div style="display: flex; justify-content: space-around; align-items: flex-start;">
+
 <a href="https://app.daily.dev/Villex-code"><img src="https://api.daily.dev/devcards/dd392acea707444d96315bea580a61ed.png?r=p6n" width="400" alt="Villex's Dev Card"/></a>
 
 <div>
@@ -40,8 +42,10 @@
 
 😄 &nbsp; I enjoying projects and interesting ideas with fellow coders !
 
+</div>
 
 </div>
+
 
 <br><br><br>
 
