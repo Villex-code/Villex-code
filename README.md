@@ -19,30 +19,34 @@
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- -- Brief Info + Dev Card ----------------------------------------------------------------------------------------------------------------------------- -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
- 
+
 <br>
 
-<div style="display: flex; justify-content: space-around; align-items: flex-start;">
-
+<table>
+<tr>
+<td>
 <a href="https://app.daily.dev/Villex-code"><img src="https://api.daily.dev/devcards/dd392acea707444d96315bea580a61ed.png?r=p6n" width="400" alt="Villex's Dev Card"/></a>
-
-<div>
+</td>
+<td>
 
 <i>&nbsp; There's nothing quite like the thrill of having your work recognized and appreciated by the community. </i><br><br>
 
-🎓 &nbsp; I'm completing my Bachelor in the field of Computer Science.
+🎓 &nbsp; I'm completing my Bachelor in the field of Computer Science.<br>
 
-🔥 &nbsp; Proudly active in supportive programming community.
+🔥 &nbsp; Proudly active in supportive programming community.<br>
 
-🎯 &nbsp; I am continuously exploring and developing projects on cutting-edge technologies like Next.js
+🎯 &nbsp; I am continuously exploring and developing projects on cutting-edge technologies like Next.js<br>
 
-🌐 &nbsp; Working on Real World Applications using Flutter ( Dart ).
+🌐 &nbsp; Working on Real World Applications using Flutter ( Dart ).<br>
 
-🚀 &nbsp; My expertise as a Full-Stack developer with a slight incline to backend.
+🚀 &nbsp; My expertise as a Full-Stack developer with a slight incline to backend.<br>
 
-😄 &nbsp; I enjoying projects and interesting ideas with fellow coders !
+😄 &nbsp; I enjoying projects and interesting ideas with fellow coders !<br>
 
-</div>
+</td>
+</tr>
+</table>
+
 
 </div>
 
