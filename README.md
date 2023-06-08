@@ -22,12 +22,12 @@
 
 <br>
 
-<table>
+<table style="border: none;">
 <tr>
-<td>
+<td style="border: none;">
 <a href="https://app.daily.dev/Villex-code"><img src="https://api.daily.dev/devcards/dd392acea707444d96315bea580a61ed.png?r=p6n" width="400" alt="Villex's Dev Card"/></a>
 </td>
-<td>
+<td style="border: none;">
 
 <i>&nbsp; There's nothing quite like the thrill of having your work recognized and appreciated by the community. </i><br><br>
 
@@ -46,6 +46,7 @@
 </td>
 </tr>
 </table>
+
 
 
 </div>
