@@ -22,7 +22,7 @@
 
 <br>
 
-<table style="border: none;">
+<table style="border:none;">
 <tr>
 <td style="border: none;">
 <a href="https://app.daily.dev/Villex-code"><img src="https://api.daily.dev/devcards/dd392acea707444d96315bea580a61ed.png?r=p6n" width="400" alt="Villex's Dev Card"/></a>
