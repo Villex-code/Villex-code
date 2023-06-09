@@ -127,10 +127,7 @@
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- -- Support Me Here ----------------------------------------------------------------------------------------------------------------------------------- -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
-<!-- 
-# <img src="https://user-images.githubusercontent.com/74038190/216112957-034e1f8b-5468-4857-8512-9cd2bac35bb6.png" alt="Handshake" width="40" /> Fuel my passion 
-<a href="https://www.buymeacoffee.com/heyanmol"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" /></a>
-<a href="https://anmolbaranwal.gumroad.com/"><img src="https://img.shields.io/badge/GUMROAD-36a9ae?style=for-the-badge&logo=gumroad&logoColor=white" /></a> -->
+
 
 <br><br>
 
@@ -138,8 +135,7 @@
 <!--- -- GitHub Stats ------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
-| ![Anmol Baranwal github stats](https://github-readme-stats.vercel.app/api?username=Anmol-Baranwal&show_icons=true&theme=tokyonight&count_private=true) | ![Anmol Baranwal GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Anmol-Baranwal&theme=tokyonight) |
-| -- | -- |
+
 
 <hr>
 
