@@ -23,21 +23,21 @@
 
 <i>&nbsp; There's nothing quite like the thrill of having your work recognized and appreciated by the community. </i><br><br>
 
-🎓 &nbsp; I'm completing my Bachelor in the field of Computer Science.<br>
+🎓 &nbsp; I have completed my Bachelor's in the field of Computer Science.<br>
 
-🔥 &nbsp; Proudly active in supportive programming community.<br>
+🔥 &nbsp; Shipping Applications within 2-4 Weeks.<br>
 
-🎯 &nbsp; I am continuously exploring and developing projects on cutting-edge technologies like Next.js<br>
+🎯 &nbsp; I am continuously developing projects on cutting-edge technologies like Next.js<br>
 
-🌐 &nbsp; Working on Real World Applications using Flutter ( Dart ).<br>
+🌐 &nbsp; Working on Real World Applications using React.<br>
 
-🚀 &nbsp; My expertise as a Full-Stack developer with a slight incline to backend.<br>
+🚀 &nbsp; My expertise as a Full-Stack developer with an incline to Frontend.<br>
 
-😄 &nbsp; I enjoying projects and interesting ideas with fellow coders !
 
 
 </div>
 
+<a href="https://notixv.com">Visit my Solutions Agency Here</a>
 
 </div>
 
