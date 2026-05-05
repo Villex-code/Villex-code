@@ -27,11 +27,7 @@
 
 🔥 &nbsp; Shipping Applications within 2-4 Weeks.<br>
 
-🎯 &nbsp; I am continuously developing projects on cutting-edge technologies like Next.js<br>
-
-🌐 &nbsp; Working on Real World Applications using React.<br>
-
-🚀 &nbsp; My expertise as a Full-Stack developer with an incline to Frontend.<br>
+🎯 &nbsp; Uncapped growth both in tech and sales<br>
 
 
 
